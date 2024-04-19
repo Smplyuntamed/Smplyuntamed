@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Smplyuntamed
-- 👀 I’m interested in Software Engineerin and Dta science
+- 👀 I’m interested in Software Engineerin and Data science
 - 🌱 I’m currently learning C++, Data Science, Python and Java Script
 - 💞️ I’m looking to collaborate on Data Science Projects and C++ project 
 - 📫 How to reach me fwmwasi1@gmail.com
